@@ -1,0 +1,4 @@
+author = RandomZachOfKindness
+version = 1.0
+displayName = Blue Screen On Death
+dllReferences=BSOD

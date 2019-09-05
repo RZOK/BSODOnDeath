@@ -1,0 +1,11 @@
+Triggers a Blue Screen of Death for your computer once you die.
+
+No, really, that's what it does.
+
+Won't work on Mac or Linux. 
+
+The source code can be found at https://github.com/RZOK/BSODOnDeath.
+
+The mod nor the creator is responsible for any lost data. 
+
+Use at your own risk! 
