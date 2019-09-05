@@ -13,6 +13,8 @@ By downloading and using the mod you are agreeing to the fact that the mod autho
 
 [Demonstration Gif](https://thumbs.gfycat.com/UnderstatedVagueGreatwhiteshark-mobile.mp4)
 
+There's also a more tame version of the mod, [RestartOnDeath](https://github.com/RZOK/RestartOnDeath)
+
 Inspiration and BSOD trigger code came from this: https://github.com/realityquintupled/BeatSaber-BSODOnMiss
 
 Download link: https://www.mediafire.com/file/txe2wv4u8a16bx6/BSODOnDeath.tmod/file
