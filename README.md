@@ -3,7 +3,7 @@ A tModLoader mod for Terraria 1.3.5 that causes your PC to bluescreen whenever y
 
 This is not a joke.
 
-It will infact bluescreen your computer.
+It will *actually* bluescreen your computer.
 
 Does not work on Mac or Linux.
 
