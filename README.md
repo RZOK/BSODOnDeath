@@ -7,6 +7,6 @@ It will infact bluescreen your computer.
 
 Does not work on Mac or Linux.
 
-By downloading the mod from the MediaFire link below, you are agreeing to the fact that the mod author nor the mod is responsible for any lost data. Save everything before using this!
+By downloading the mod from the MediaFire link below, you are agreeing to the fact that the mod author nor the mod is responsible for any lost data or damage done to your PC. Save everything before using this!
 
 Download link: https://www.mediafire.com/file/txe2wv4u8a16bx6/BSODOnDeath.tmod/file
