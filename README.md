@@ -13,4 +13,6 @@ By downloading and using the mod you are agreeing to the fact that the mod autho
 
 [Demonstration Gif](https://gfycat.com/understatedvaguegreatwhiteshark)
 
+Inspiration and BSOD trigger code came from this: https://github.com/realityquintupled/BeatSaber-BSODOnMiss
+
 Download link: https://www.mediafire.com/file/txe2wv4u8a16bx6/BSODOnDeath.tmod/file
