@@ -11,7 +11,7 @@ By downloading and using the mod you are agreeing to the fact that the mod autho
 
 [Source code for the .dll in the lib folder](https://hastebin.com/urobukajog.cs)
 
-[Demonstration Gif](https://gfycat.com/understatedvaguegreatwhiteshark)
+[Demonstration Gif](https://thumbs.gfycat.com/UnderstatedVagueGreatwhiteshark-mobile.mp4)
 
 Inspiration and BSOD trigger code came from this: https://github.com/realityquintupled/BeatSaber-BSODOnMiss
 
