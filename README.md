@@ -9,7 +9,7 @@ Does not work on Mac or Linux.
 
 By downloading and using the mod you are agreeing to the fact that the mod author nor the mod is responsible for any lost data or damage done to your PC, that you assume the risk of data loss and or damage, and that you are using this at your discretion and at your own risk. Save everything before using this!
 
-[Source code for the .dll in the lib folder](https://hastebin.com/urobukajog.cs)
+[Source code for the .dll in the lib folder](https://hastebin.com/yeyugumiti.cs)
 
 [Demonstration Gif](https://thumbs.gfycat.com/UnderstatedVagueGreatwhiteshark-mobile.mp4)
 
