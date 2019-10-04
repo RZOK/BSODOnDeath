@@ -5,6 +5,8 @@ This is not a joke.
 
 It will ***actually*** bluescreen your computer.
 
+"Why?" -90% of r/Terraria
+
 Does not work on Mac or Linux.
 
 By downloading and using the mod you are agreeing to the following terms.
@@ -23,8 +25,3 @@ Inspiration and BSOD trigger code came from this: https://github.com/realityquin
 
 Download link: https://www.mediafire.com/file/txe2wv4u8a16bx6/BSODOnDeath.tmod/file
 
-# User Reviews
-
-"Why?" -90% of r/Terraria
-
-"Dope" -Irl friend
