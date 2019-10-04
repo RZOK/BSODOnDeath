@@ -15,7 +15,7 @@ By downloading and using the mod you are agreeing to the following terms.
 
 [Source code for the .dll in the lib folder](https://hastebin.com/yeyugumiti.cs)
 
-[Demonstration Gif](https://thumbs.gfycat.com/UnderstatedVagueGreatwhiteshark-mobile.mp4)
+[Demonstration Gif](https://thumbs.gfycat.com/WhisperedNeighboringBuck-mobile.mp4)
 
 There's also a more tame version of the mod, [RestartOnDeath](https://github.com/RZOK/RestartOnDeath).
 
