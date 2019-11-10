@@ -23,5 +23,5 @@ There's also a more tame version of the mod, [RestartOnDeath](https://github.com
 
 Inspiration and BSOD trigger code came from this: https://github.com/realityquintupled/BeatSaber-BSODOnMiss
 
-Download link: https://www.mediafire.com/file/txe2wv4u8a16bx6/BSODOnDeath.tmod/file
+Download link: https://www.mediafire.com/file/8nntp4srtat0vvt/BSODOnDeath.tmod/file
 
