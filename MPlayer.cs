@@ -9,5 +9,9 @@ namespace BSODOnDeath
         {
             BSOD.Blue.Crash();
         }
+        public override void OnEnterWorld(Player player)
+        {
+            Main.NewText("BSODOnDeath is enabled! Your computer will bluescreen whenever you die, if you do not want this I suggest leaving the world!");
+        }
     }
 }
