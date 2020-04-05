@@ -15,8 +15,6 @@ By downloading and using the mod you are agreeing to the following terms.
 
 ## Save everything before using this!
 
-[Source code for the .dll in the lib folder](https://hastebin.com/yeyugumiti.cs)
-
 [Demonstration Gif](https://thumbs.gfycat.com/WhisperedNeighboringBuck-mobile.mp4)
 
 There's also a more tame version of the mod, [RestartOnDeath](https://github.com/RZOK/RestartOnDeath).
